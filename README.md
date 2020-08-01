@@ -7,7 +7,7 @@ A Python code that uses the mrjob package to search GDELT data with the mode run
   $ pip install mrjob
   ~~~
 
-- Store the data you want to count lines in the "GDELT" folder.
+- Store the data you want to count lines in the "GDELT" folder, which was put in the same directory with the Python code.
 
 - Enter the command below in terminal.
   ~~~
