@@ -11,7 +11,7 @@ A Python code that uses the mrjob package to search GDELT data with the mode run
 
 - Enter the command below in terminal.
   ~~~
-  $ python3 mr_line.count.py GDELT/*
+  $ python3 mr_line_count.py GDELT/*
   ~~~
 
 - You will get the total numbers of the lines in all of the files in the directory.
